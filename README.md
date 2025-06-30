@@ -7,6 +7,10 @@ What if you had a custom macropad with your top 6 most used emojis! 😨
 Oh wait! That doesn't exist. 😭
 
 So we made one. 😺
+
+Sidenote: This uses a unicode package, that could be modified for less silly purposes such as typing accents in other languages.
+
+
 We started with a kicad schematic:
 
 
