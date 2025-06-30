@@ -15,6 +15,8 @@ We started with a kicad schematic:
 We used a XIAO-RP2040-DIP microcontroller, 3 LEDS, and 6 keys for our top 6 emojis.
 
 We did the pcb next and decided on a 2 by 3 grid for the keys with the microcontroller on one end for easy USB access.
+
+
 ![image](https://github.com/user-attachments/assets/f3a9b516-d5c3-4579-8dcd-da809c7cbf18)
 
 We finished with a 3d model of the top and bottom:
