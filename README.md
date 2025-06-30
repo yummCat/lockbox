@@ -8,6 +8,8 @@ Oh wait! That doesn't exist. 😭
 
 So we made one. 😺
 We started with a kicad schematic:
+
+
 ![image](https://github.com/user-attachments/assets/940bb77f-93d0-4a18-b8ac-076335961e0a)
 
 We used a XIAO-RP2040-DIP microcontroller, 3 LEDS, and 6 keys for our top 6 emojis.
