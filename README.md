@@ -1,1 +1,27 @@
 # emomacropad
+The idea for our hackpad(first project) was emojis.
+
+We LOVE emojis. 😛
+What if it wasn't so inconvenient to use emojis on your computer? 😣
+What if you had a custom macropad with your top 6 most used emojis! 😨
+Oh wait! That doesn't exist. 😭
+
+So we made one. 😺
+
+We started with a kicad schematic:
+![image](https://github.com/user-attachments/assets/940bb77f-93d0-4a18-b8ac-076335961e0a)
+
+We used a XIAO-RP2040-DIP microcontroller, 3 LEDS, and 6 keys for our top 6 emojis.
+
+We did the pcb next and decided on a 2 by 3 grid for the keys with the microcontroller on one end for easy USB access.
+
+![image](https://github.com/user-attachments/assets/f3a9b516-d5c3-4579-8dcd-da809c7cbf18)
+
+We finished with a 3d model of the top and bottom:
+![WhatsApp Image 2025-06-30 at 15 57 06_42b4655e](https://github.com/user-attachments/assets/9e657471-e328-46d8-aad1-caf781350e71)
+![WhatsApp Image 2025-06-30 at 15 57 47_dbb89ba6](https://github.com/user-attachments/assets/b9dc2f8a-e947-432c-af9d-000e2b8da8a8)
+
+Our posture was notably incredible throughout the whole coding process.
+![WhatsApp Image 2025-06-30 at 16 11 49_f42e6659](https://github.com/user-attachments/assets/e12bd7ea-4fa2-4508-a019-a1071df35284)
+
+And that was the end of our first project.
