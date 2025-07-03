@@ -14,5 +14,5 @@ Next we made the pcb design:
 
 Next we made the 3d model:
 
-![WhatsApp Image 2025-06-30 at 16 41 58_686a2c15](https://github.com/user-attachments/assets/6e161234-309c-439c-a3ef-d5df06a91b16)
-![WhatsApp Image 2025-06-30 at 16 43 15_e7120fa5](https://github.com/user-attachments/assets/f15be004-f8e5-4dc4-b7af-850befc7d7c6)
+![image](https://github.com/user-attachments/assets/71c2484c-162d-453a-a933-12417ffabb16)
+![WhatsApp Image 2025-07-02 at 21 14 29_6d6b2fa8](https://github.com/user-attachments/assets/8bc7a05d-f7a1-4b57-a335-7ed9b0ab0cef)
