@@ -16,6 +16,7 @@ Next we made the 3d model:
 
 ![image](https://github.com/user-attachments/assets/71c2484c-162d-453a-a933-12417ffabb16)
 ![WhatsApp Image 2025-07-02 at 21 14 29_6d6b2fa8](https://github.com/user-attachments/assets/8bc7a05d-f7a1-4b57-a335-7ed9b0ab0cef)
+![WhatsApp Image 2025-07-07 at 18 49 21_a0b8ef6a](https://github.com/user-attachments/assets/1795ece7-7fe5-48ec-8a3e-f6243e5e6a41)
 
 Lastly the BOM:
 ![image](https://github.com/user-attachments/assets/b0cbf276-5bd5-4edb-bcab-cb526ea97069)
